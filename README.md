@@ -1,1 +1,1 @@
-Compile it with "scalac *.scala" and run the program with "Scala ParMain"
+Compile it with "scalac *.scala" and run the program with "scala ParMain"
